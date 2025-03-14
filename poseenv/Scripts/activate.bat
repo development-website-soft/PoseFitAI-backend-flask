@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\husam\Desktop\PoseFitAI-Personal-AI-fitness-trainer-with-Mediapipe-pose-analysis-main\PoseFitAI-backend-flask\poseenv
+set VIRTUAL_ENV=C:\Users\husam\Desktop\smart-coach\PoseFitAI-backend-flask\poseenv
 
 if not defined PROMPT set PROMPT=$P$G
 

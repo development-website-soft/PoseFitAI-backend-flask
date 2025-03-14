@@ -3,6 +3,7 @@ python-dotenv
 psycopg2-binary
 Flask-SQLAlchemy
 Flask-Migrate
+gunicorn
 werkzeug
 uuid
 flask-jwt-extended
