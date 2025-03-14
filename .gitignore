@@ -1,0 +1,31 @@
+# Python bytecode files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+
+# Environment configuration files
+.env
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Dependency directories
+dist/
+build/
+*.egg-info/
+
+# Log files
+*.log
+
+# Ignore local development settings (if any)
+config.py
