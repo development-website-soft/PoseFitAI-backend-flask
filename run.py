@@ -6,7 +6,7 @@ from app import create_app
 app = create_app()
 
 if __name__ == '__main__':
-    app.run()
+    app.run(debug=True)
 
 # fa43da3d-e2e6-04f9-4551-33143c0353b5
 
